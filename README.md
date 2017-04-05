@@ -1,0 +1,1 @@
+> A Tic Tac Toe game for you and all your friends. Written in C++.
